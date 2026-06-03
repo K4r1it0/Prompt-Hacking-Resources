@@ -1,7 +1,6 @@
 # EVENTS
 --- 
 • [HackAPrompt](https://www.hackaprompt.com/) – Online competition where participants try to jailbreak AI systems through adversarial prompt crafting  
-• [RedTeam Arena](https://redarena.ai/) – Gamified AI red teaming platform focused on discovering vulnerabilities in LLMs
 • [AI Security Summit 2024](https://www.scale.com/summit/access) – Executive-level summit by Scale AI, addressing the latest developments in AI security and safety  
 • [AI Red-Teaming Workshop (SEI)](https://insights.sei.cmu.edu/news/ai-red-teaming-workshop-will-explore-best-practices/) – Workshop by CMU SEI focused on methodologies and best practices in red-teaming AI systems  
 • [AISec Workshop](https://aisec.cc/) – Academic workshop co-located with major ML conferences (like CCS/NeurIPS) on AI security and privacy research  
