@@ -115,7 +115,6 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 Interactive environments to practice prompt hacking hands-on against live LLMs:
 - **[PromptTrace](https://prompttrace.airedlab.com)** – Free hands-on labs and a progressive gauntlet covering prompt injection, jailbreaks, RAG poisoning, and tool/function-call abuse against real LLMs, plus the corresponding defenses.
 - **[Gandalf (Lakera)](https://gandalf.lakera.ai/)** – Level-based prompt injection challenge; coax a bot into revealing a secret password.
-- **[InjectPrompt Playground](https://playground.injectprompt.com/)** – Sandbox for experimenting with prompt injection payloads against different models.
 
 # Events
 
